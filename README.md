@@ -1,4 +1,6 @@
 # L-M4IN
+menggunakan :
+root@alinko:~# chmod 777 -R L-MAIN && cd L-MAIN && ./L-MAIN.pl
 
 +----------------Lokomedia auto injection----------------------------+ 
 
